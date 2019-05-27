@@ -1,0 +1,38 @@
+html{
+	background-image: url(pics/bg_2.jpg);
+	background-repeat: no-repeat;
+	background-size: 50px,13opx,auto;
+	height: 200px;
+	width: 200px;
+li{
+	display: inline-block;
+	margin: 40px;
+	font-family: cursive;
+	font-size: 30px;
+
+
+/*header{
+	box-sizing: border-box;
+	margin:20px;
+	height: 40px;
+	color:pink;
+}*/
+
+h4{
+	color: #fff;
+	text-align: center;
+	font-size: 50px;
+	font-family:cursive;
+
+
+	
+	}
+.footer{
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	height: 30px;
+	width: 100%;
+	background-color:red;
+	color: white;
+}
