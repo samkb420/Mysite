@@ -11,7 +11,7 @@ header{
 	height: 70px;
 	border-radius: 10px;
 	color: #fff
-	opacity0.5;
+	opacity:0.5;
 
 }
 #main_nav{
@@ -62,3 +62,4 @@ h4{
 #right_nav{
 	float: right;
 }
+
